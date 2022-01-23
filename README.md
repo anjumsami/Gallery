@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Getting Started![n2](https://user-images.githubusercontent.com/96682844/150669595-2760fb22-a5b8-40ae-827c-f56b0a338b81.PNG)
+## Getting Started![n2]
 
 
 This project is a starting point for a Flutter application.
